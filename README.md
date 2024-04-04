@@ -40,7 +40,8 @@ from .models import Student
 admin.site.register(Student)
 
 ## OUTPUT
-![alt text](../app5/output.png)
+![output](https://github.com/Sabari-2005/ORM/assets/139338709/4f5e9a17-f783-46c9-bc46-9d91b9b4d8ed)
+
 
 
 
